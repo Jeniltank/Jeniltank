@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2790F7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Solutions;Industrial+Automation;Data+Analytics+%26+Dashboards)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2790F7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+ML+Solutions;n8n+Automation;Data+Analytics+%26+Dashboards" alt="Typing SVG" />
 </div>
-
-<br/>
-
-I am a results-driven **Software Engineer** based in Bhuj, Gujarat, specializing in scalable AI/ML solutions, algorithmic trading systems, and robust data workflows. I thrive on bridging the gap between software and hardware—building everything from 100% no-code automation pipelines to custom IoT sensor integrations.
+</div>
+I am a results-driven Software Engineer based in Bhuj, Gujarat, specializing in scalable AI/ML solutions, algorithmic trading systems, and robust data workflows. I thrive on bridging the gap between software and hardware—building everything from 100% no-code automation pipelines to custom IoT sensor integrations.
 
 ---
 
